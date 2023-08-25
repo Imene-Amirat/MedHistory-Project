@@ -1,5 +1,5 @@
 class index{
 	
-	int x = 2;
+	public int x = 2;
 	
 }
